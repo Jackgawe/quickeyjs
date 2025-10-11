@@ -1,6 +1,6 @@
 {
   "name": "quickeyjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Your quick key to clean, reusable JavaScript. Lightweight, dependency-free JS utilities.",
   "type": "module",
   "main": "./src/index.js",
