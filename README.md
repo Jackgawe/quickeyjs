@@ -48,4 +48,4 @@ console.log(qk.unique([1,1,2,3]));
 Run `node src/index.js` to see sample outputs for all helpers.
 
 ---
-MIT License
+PS: This was entierly vibe coded, and i hate it.
